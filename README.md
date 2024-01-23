@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-gretchenlam
 
 Running at: <https://jpa03-gretchenlam.dokku-13.cs.ucsb.edu/>
 
